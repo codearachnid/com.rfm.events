@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.rfm.events"
+        version     = "0.0.1" >
+    <name>Richmond Family Magazine</name>
+    <description>
+      Events you care about.
+    </description>
+    <author href="http://www.imaginesimplicity.com" email="tim@imaginesimplicity.com">
+        Timothy Wood @codearachnid 
+    </author>
+    <preference name="phonegap-version" value="3.6.3" />
+    <preference name="WebViewBounce" value="true" />
+</widget>
